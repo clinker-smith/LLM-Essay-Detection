@@ -60,12 +60,34 @@ Students lazily using Gen AI will often leave parts of the conversation in the t
 
 * "Here is your essay:"
 * "Here is"
+* "Here's"
 * "Sure!"
+* "Sure"
 
 #### Variable name: 
 `prompt_lang`
 * Binary (was it present or not)
 
-  
+## Em dash count
+Chat GPT is often credited with overusing em dashes in its writing:
+* "-"
+* "--"
+* "—"
 
+#### Variable name: 
+`n_em_dash`
+* Numeric count
 
+## Spelling errors
+Find Python package that has a spell check built in. Human writing will have spelling errors.
+
+## Anything that has you/your in parentheses or brackets
+
+## Telling, not showing
+* In this essay, I will... = AI
+
+## Using words to try to sound human
+* Like
+* Whatever
+* Hey/hello/hi
+* Um/Umm
